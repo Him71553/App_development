@@ -34,13 +34,12 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.8
     # 用於行事曆 UI 和事件管理
-  table_calendar: ^3.1.2 # 建議使用 ^3.1.0 或更高版本
+  table_calendar: ^3.1.2
   intl: ^0.19.0
     # 用於讓使用者從相簿或相機選擇圖片
   image_picker: ^1.1.2
-
     # (可選) 用於儲存事件或圖片路徑，以便下次開啟 App 時保留
-  shared_preferences: ^2.2.3 # 建議使用 ^2.2.0 或更高版本
+  shared_preferences: ^2.2.3
 
 dev_dependencies:
   flutter_test:
