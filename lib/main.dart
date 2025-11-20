@@ -298,7 +298,7 @@ class _Calendar2026PageState extends State<Calendar2026Page> {
 
     return Scaffold(
       appBar: AppBar(
-        title: Text('2026 年曆'),
+        title: Text('年曆'),
       ),
       floatingActionButton: FloatingActionButton(
         onPressed: _showAddEventDialog,
